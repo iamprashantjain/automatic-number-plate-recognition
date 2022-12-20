@@ -1,1 +1,1 @@
-# automatic-number-plate-recognition
+This Automatic Number Plate recognition system using image processing methods detects, reads & returns Number Plate in a text format. I've trained Yolov5 model on extracting number plates eactly which has over 90% accuracy & further I've developed OCR to process extracted number plate image to read & return everything in text format & created a web app using streamlit.
